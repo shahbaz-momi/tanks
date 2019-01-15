@@ -1,0 +1,12 @@
+Adobe After Effects v13.5 Windows 64 render log for project “CrateExplode.aep”
+
+Rendering started on 09/01/16 at 3:27:46 PM
+
+  09/01/16 3:27:46 PM: Starting composition “Comp 1”.
+
+  Output To: C:\Users\Shahbaz Momi\Documents\TankGame\Anim\CrateExplode\Output\[###].png    09/01/16 3:27:46 PM: Finished composition “Comp 1”.
+
+
+  Total Time Elapsed: 0 Seconds
+Log closed on 09/01/16 at 3:27:46 PM
+

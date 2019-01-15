@@ -1,0 +1,36 @@
+highly reactive environment
+ -- scorch the earth where explosions happen
+ -- barrels and stuff blow up and affect surronding things
+ -- barrels light on fire then blow up ^^
+ -- tree's burn when hit // scorchs earth underneath them
+ -- anything can blow up and scorch the earth underneath
+ -- water and bridges // blowup bridges
+
+Houses with items inside
+
+Special bullets:
+ -- Warp bullets
+ -- Knockback bullets
+ -- heal bullets
+ -- freeze bullet
+ -- black hole bullet
+
+Powerups:
+ -- Heal
+ -- forcefield
+ -- nuke
+
+ -- landmines
+ -- traps
+ -- portals
+
+Gamemodes:
+ -- CTF
+ -- TDM
+ -- FFA
+ -- Protect the trophy
+
+Aspects:
+ -- Implement a strategical aspect to the game by including things like teleportation, knockback, pushing items to build defenses
+ -- Fun, live, multiplayer gameplay with instant respawn or round-system like CSGO
+ -- timed matches, best score matches
